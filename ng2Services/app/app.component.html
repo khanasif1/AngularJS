@@ -1,0 +1,9 @@
+<h1>{{title}}</h1>
+<h2>{{hero.id}} name {{hero.name}}!</h2>
+<input [(ngModel)]="hero.name" placeholder="name" />
+
+ <ul>
+  <li *ngFor="let h of heroes | async">
+ <app-hero [hero]="h"></app-hero>
+ </li>
+</ul>

@@ -1,0 +1,10 @@
+C:\Dev\Personal\ngVS\ngVS\quickstart\app\app.component.js
+C:\Dev\Personal\ngVS\ngVS\quickstart\app\app.component.js.map
+C:\Dev\Personal\ngVS\ngVS\quickstart\app\app.component.spec.js
+C:\Dev\Personal\ngVS\ngVS\quickstart\app\app.component.spec.js.map
+C:\Dev\Personal\ngVS\ngVS\quickstart\app\app.module.js
+C:\Dev\Personal\ngVS\ngVS\quickstart\app\app.module.js.map
+C:\Dev\Personal\ngVS\ngVS\quickstart\app\main.js
+C:\Dev\Personal\ngVS\ngVS\quickstart\app\main.js.map
+C:\Dev\Personal\ngVS\ngVS\quickstart\e2e\app.e2e-spec.js
+C:\Dev\Personal\ngVS\ngVS\quickstart\e2e\app.e2e-spec.js.map
